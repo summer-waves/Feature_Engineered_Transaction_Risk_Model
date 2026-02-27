@@ -46,7 +46,7 @@ The pipeline:
 
 ---
 
-📊 Data and Features
+## 📊 Data and Features
 The raw dataset simulates mobile money transactions with fields like `step`, `type`, `amount`, `nameOrig`, `nameDest`, balances, and fraud labels.
 
 Key raw fields:
